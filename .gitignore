@@ -4,3 +4,5 @@ __pycache__
 .DS_Store
 **/*.jpg
 **/*.png
+C3/W4/ungraded_labs/data/shakespeare.txt
+C3/W3/assignment/data/glove.6B.100d.txt
